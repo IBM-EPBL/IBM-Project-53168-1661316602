@@ -1,0 +1,88 @@
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("flight.jpg");
+
+  /* Full height */
+  height: 120%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.f2{
+  Text-align: center;
+  color: white;
+  font: bold;
+  font-size: 250%;
+
+  }
+
+ .f3{
+  color: white;
+  font-size: 150%;
+  font: bold;
+ } 
+ #f4{
+  color: white;
+  font-size: 150%;
+  font: bold;
+ }
+ #f5{
+  color: white;
+  font-size: 150%;
+  font: bold;
+ }
+ #f6{
+  color: white;
+  font-size: 150%;
+  font: bold;
+ }
+ #f7{
+  color: white;
+  font-size: 150%;
+  font: bold;
+ }
+ #Test_DatetimeLocal{
+  
+ }
+ #country{
+   width: 20%;
+
+ }
+ .f2:hover{
+   color: rgb(50, 20, 30);
+ }
+ #f8{
+  color: white;
+  font-size: 150%;
+  font: bold;
+}
+ #f9{
+  color: white;
+  font-size: 150%;
+  font: bold;
+}
+ #f10{
+  color: white;
+  font-size: 150%;
+  font: bold;
+}
+#f11{
+  color: black;
+  font-size: 150%;
+  font: bold;
+  background-color:#ff0066 ;
+  margin: 3%;
+  width: 12%;
+}
+#f11:hover{
+  color:white ;
+
+}
